@@ -52,6 +52,7 @@ If there is no such matching words then the Ai will go by the sentences or by th
 **Name**:- Feedback \
 **Idea**:- \
 Since Spotify has a large user base, so they can now afford to conducting feedbacks. \
+For users who are interested in taking the surveys, some of the option which were stored in spotify(like name, email,..) will be autofilled and user will have an option to review them (whether to sned these details or not). \
 In that revenue If we give 20% to the user for answering then it can keep this alive. \
 It can also have the potential to porvide a better alternative for the ad revenue system. \
 **Target audience**:- users who like to earn money by surveys \
