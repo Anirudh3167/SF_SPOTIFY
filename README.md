@@ -24,6 +24,7 @@ And identifying the remixes of songs if there is >95% of lyrics match. \
 Or even with the tune. \
 This can be named as ultra search with and option of sort by i.e. by original, by popularity, by song duration. \
 **Target audience**:- end user
+**Benefit to Spotify**:- user firendly 
 
 ## Feature 2
 **Name**:- Equilizer \
@@ -35,6 +36,7 @@ In addition, they will get some instrument voices which they can overlap and mod
 Also, of they like it so much that they want to upload it then they can upto 5 songs in free acount. \
 A partly payment of playbacks will be offered from the spotify side(like for songs which get more than 1K playbacks). \
 **Target audience**:- Music and Remix creators
+**Benefit to Spotify**:- Both user firendly and revenue generation
 
 ## Feature 3
 **Name**:- Lyrics translation \
@@ -42,6 +44,7 @@ A partly payment of playbacks will be offered from the spotify side(like for son
 With the help of ML and NLP, we can create a translated lyrics or even the whole song with it. \
 Eg. If I like the song daspecito, then why should I wait for someone to create it Hindi version when we have Ai.  \
 **Target audience**:- world wide users who likes different language songs
+**Benefit to Spotify**:- User firendly
 
 ## Feature 4
 **Name**:- Feedback \
@@ -50,6 +53,7 @@ Since Spotify has a large user base, so they can now afford to conducting feedba
 In that revenue If we give 20% to the user for answering then it can keep this alive. \
 It can also have the potential to porvide a better alternative for the ad revenue system. \
 **Target audience**:- users who like to earn money by surveys
+**Benefit to Spotify**:- Revenue generation
 
 ## Feature 5
 **Name**:- Auto Stop \
@@ -62,3 +66,4 @@ A response system will by default have a timer of 15-20mins. It will check for t
 Response can either be the form of mobile alert (like:- Are you Awake? Yes | No). \
 or by the voice input (like:- if it is yes then timer will reset and songs will play. Else it will stop playing). \
 **Target audience**:- users who use Spotify while sleeping
+**Benefit to Spotify**:- User firendly
