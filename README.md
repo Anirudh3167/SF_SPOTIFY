@@ -1,11 +1,11 @@
 # SF | SPOTIFY
 
 ## Table contents:-
--[why spotify](#why-spotify)
--[Feature-1](#feature-1)
--[Feature-2](#feature-2)
--[Feature-3](#feature-3)
--[Feature-4](#feature-4)
+-[why spotify](#why-spotify) \
+-[Feature-1](#feature-1) \
+-[Feature-2](#feature-2) \
+-[Feature-3](#feature-3) \
+-[Feature-4](#feature-4) \
 -[Feature-5](#feature-5)
 
 ## Why Spotify?
