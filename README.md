@@ -43,6 +43,8 @@ A partly payment of playbacks will be offered from the spotify side(like for son
 **Idea**:- \
 With the help of ML and NLP, we can create a translated lyrics or even the whole song with it. \
 Eg. If I like the song daspecito, then why should I wait for someone to create it Hindi version when we have Ai.  \
+Ai will first go by the repacing the words as per translate such that the song will be like original one(in terms of pitch, frequency,..) \
+If there is no such matching words then the Ai will go by the sentences or by the music lines till it gets the perfection. \
 **Target audience**:- world wide users who likes different language songs \
 **Benefit to Spotify**:- User firendly
 
