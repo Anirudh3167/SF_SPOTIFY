@@ -1,5 +1,13 @@
 # SF | SPOTIFY
 
+## Table contents:-
+[why spotify](#Why spotify?)
+[Feature-1](#Feature 1)
+[Feature-2](#Feature 2)
+[Feature-3](#Feature 3)
+[Feature-4](#Feature 4)
+[Feature-5](#Feature 5)
+
 ## Why Spotify?
 Being a music lover, I am very much interested to create some new features in music apps.
 I think this app can serve its best if it can improve its performance by solving some problems which me as a user felt it a bit difficult to use the app.
